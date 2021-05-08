@@ -5,4 +5,4 @@
 ### Table of Contents
 
 
-1. [Workflows](https://github.com/mobillium/MobilliumCICDGuidelines/blob/master/workflows.md)
+1. [Workflows](https://github.com/mobillium/MobilliumCICDGuidelines/blob/feature/workflows/workflows.md)
