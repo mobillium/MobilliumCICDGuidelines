@@ -1,138 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1260px" height="456px" viewBox="0 0 1260 456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Group 3</title>
+<svg width="845px" height="456px" viewBox="0 0 845 456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>deploy-for-testing</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-3" transform="translate(2.000000, 0.000000)">
-            <line x1="1187" y1="231" x2="98" y2="231" id="Path" stroke="#404040" stroke-width="4"></line>
-            <g id="Group-6" transform="translate(813.000000, 0.000000)">
+        <g id="deploy-for-testing" transform="translate(2.000000, 3.500000)">
+            <line x1="770" y1="229.5" x2="98" y2="229.5" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group-6" transform="translate(401.500000, 0.000000)" fill-rule="nonzero">
                 <g id="Group-2">
-                    <ellipse id="Oval" stroke="#C23084" stroke-width="7" fill-opacity="0" fill="#D8D8D8" cx="222.5" cy="228" rx="219" ry="224.5"></ellipse>
-                    <text id="Deploy-for-Testing-W" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="126.249512" y="391">Deploy for Testing </tspan>
-                        <tspan x="172.69873" y="417">Workflow</tspan>
+                    <ellipse id="Oval" stroke="#C23084" stroke-width="7" fill-opacity="0" fill="#D8D8D8" cx="219" cy="224.5" rx="219" ry="224.5"></ellipse>
+                    <text id="Deploy-for-Testing" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <tspan x="122.749512" y="387.5">Deploy for Testing</tspan>
+                    </text>
+                    <text id="Workflow" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <tspan x="169.19873" y="413.5">Workflow</tspan>
                     </text>
                 </g>
-                <g id="Group" transform="translate(16.500000, 167.000000)">
-                    <g id="Oval" transform="translate(63.500000, 50.500000)" fill="#C23084" fill-rule="nonzero" stroke="#404040" stroke-width="4">
+                <g id="Group" transform="translate(13.007324, 163.500000)">
+                    <g id="Oval" transform="translate(63.492676, 50.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
                         <circle cx="15.8" cy="15.8" r="15.8"></circle>
                     </g>
-                    <text id="CONFIGURE-WITH-GIVEN" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="0.00732421875" y="18">CONFIGURE WITH</tspan>
-                        <tspan x="13.9951172" y="40">GIVEN CONFIG</tspan>
-                    </text>
+                    <g id="CONFIGURE-WITH-GIVEN" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold">
+                        <text id="CONFIGURE-WITH">
+                            <tspan x="0" y="18">CONFIGURE WITH</tspan>
+                        </text>
+                        <text id="GIVEN-CONFIG">
+                            <tspan x="13.987793" y="40">GIVEN CONFIG</tspan>
+                        </text>
+                    </g>
                 </g>
-                <g id="Group" transform="translate(168.000000, 186.000000)">
-                    <g id="Oval" transform="translate(51.000000, 31.500000)" fill="#C23084" fill-rule="nonzero" stroke="#404040" stroke-width="4">
+                <g id="Group" transform="translate(197.393066, 182.500000)">
+                    <g id="Oval" transform="translate(18.106934, 31.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
                         <circle cx="15.8" cy="15.8" r="15.8"></circle>
                     </g>
-                    <text id="UNIT-TEST" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="32.8930664" y="21">BUILD</tspan>
-                    </text>
+                    <g id="UNIT-TEST" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <text id="BUILD">
+                            <tspan x="-7.10542736e-15" y="21">BUILD</tspan>
+                        </text>
+                    </g>
                 </g>
-                <g id="Group" transform="translate(303.000000, 186.000000)">
-                    <g id="Oval" transform="translate(51.000000, 31.500000)" fill="#C23084" fill-rule="nonzero" stroke="#404040" stroke-width="4">
+                <g id="Group" transform="translate(320.770019, 182.500000)">
+                    <g id="Oval" transform="translate(29.729980, 31.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
                         <circle cx="15.8" cy="15.8" r="15.8"></circle>
                     </g>
-                    <text id="UNIT-TEST" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="21.2700195" y="21">DEPLOY</tspan>
-                    </text>
+                    <g id="UNIT-TEST" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <text id="DEPLOY">
+                            <tspan x="-3.55271368e-15" y="21">DEPLOY</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Group-5" transform="translate(366.000000, 27.000000)">
-                <g id="Group-2">
-                    <ellipse id="Oval" stroke="#4DA6FF" stroke-width="7" fill-opacity="0" fill="#D8D8D8" cx="196" cy="201" rx="192.5" ry="197.5"></ellipse>
-                    <text id="Primary-Workflow" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="102" y="346">Primary Workflow</tspan>
-                    </text>
-                </g>
-                <g id="Group" transform="translate(60.000000, 158.000000)">
-                    <g id="Oval" transform="translate(29.000000, 32.500000)" fill="#4DA6FF" fill-rule="nonzero" stroke="#404040" stroke-width="4">
-                        <circle cx="15.8" cy="15.8" r="15.8"></circle>
-                    </g>
-                    <text id="LINTERS" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="0" y="21">LINTERS</tspan>
-                    </text>
-                </g>
-                <g id="Group" transform="translate(215.000000, 158.000000)">
-                    <g id="Oval" transform="translate(55.000000, 32.500000)" fill="#4DA6FF" fill-rule="nonzero" stroke="#404040" stroke-width="4">
-                        <circle cx="15.8" cy="15.8" r="15.8"></circle>
-                    </g>
-                    <text id="SONARCUBE" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                        <tspan x="0" y="21">SONARCUBE</tspan>
-                    </text>
-                </g>
-            </g>
-            <line x1="194.5" y1="524.2" x2="194.5" y2="327.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(194.500000, 425.700000) rotate(90.000000) translate(-194.500000, -425.700000) "></line>
-            <line x1="192.5" y1="134.2" x2="192.5" y2="-62.8" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 35.700000) rotate(90.000000) translate(-192.500000, -35.700000) "></line>
-            <line x1="192.5" y1="200.2" x2="192.5" y2="3.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 101.700000) rotate(90.000000) translate(-192.500000, -101.700000) "></line>
-            <line x1="192.5" y1="266.2" x2="192.5" y2="69.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 167.700000) rotate(90.000000) translate(-192.500000, -167.700000) "></line>
-            <line x1="192.5" y1="394.2" x2="192.5" y2="197.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 295.700000) rotate(90.000000) translate(-192.500000, -295.700000) "></line>
-            <line x1="192.5" y1="459.2" x2="192.5" y2="262.2" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 360.700000) rotate(90.000000) translate(-192.500000, -360.700000) "></line>
-            <g id="Branch" transform="translate(0.000000, 205.700000)" fill-rule="nonzero">
+            <line x1="194.5" y1="522.7" x2="194.5" y2="325.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(194.500000, 424.200000) rotate(90.000000) translate(-194.500000, -424.200000) "></line>
+            <line x1="192.5" y1="132.7" x2="192.5" y2="-64.3" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 34.200000) rotate(90.000000) translate(-192.500000, -34.200000) "></line>
+            <line x1="192.5" y1="198.7" x2="192.5" y2="1.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 100.200000) rotate(90.000000) translate(-192.500000, -100.200000) "></line>
+            <line x1="192.5" y1="264.7" x2="192.5" y2="67.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 166.200000) rotate(90.000000) translate(-192.500000, -166.200000) "></line>
+            <line x1="192.5" y1="392.7" x2="192.5" y2="195.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 294.200000) rotate(90.000000) translate(-192.500000, -294.200000) "></line>
+            <line x1="192.5" y1="457.7" x2="192.5" y2="260.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 359.200000) rotate(90.000000) translate(-192.500000, -359.200000) "></line>
+            <g id="Branch" transform="translate(0.000000, 204.200000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4CD3D6" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(21.152500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Release">
-                        <tspan x="-3.55271368e-15" y="15">Release</tspan>
-                    </text>
+                    <g id="Release">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Release</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Branch" transform="translate(0.000000, 270.700000)" fill-rule="nonzero">
+            <g id="Branch" transform="translate(0.000000, 269.200000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B18BE8" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(19.367500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Develop">
-                        <tspan x="-3.55271368e-15" y="15">Develop</tspan>
-                    </text>
+                    <g id="Develop">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Develop</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Branch" transform="translate(0.000000, 335.700000)" fill-rule="nonzero">
+            <g id="Branch" transform="translate(0.000000, 334.200000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#0091FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(33.580000, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Epic">
-                        <tspan x="0" y="15">Epic</tspan>
-                    </text>
+                    <g id="Epic">
+                        <text>
+                            <tspan x="0" y="15">Epic</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Branch" transform="translate(0.000000, 400.700000)" fill-rule="nonzero">
+            <g id="Branch" transform="translate(0.000000, 399.200000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4ED1A1" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(21.115000, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Feature">
-                        <tspan x="3.55271368e-15" y="15">Feature</tspan>
-                    </text>
+                    <g id="Feature">
+                        <text>
+                            <tspan x="1.19949929e-24" y="15">Feature</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Branch" transform="translate(2.000000, 76.000000)" fill-rule="nonzero">
+            <g id="Branch" transform="translate(2.000000, 74.500000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#FC8363" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(26.557500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Hotfix">
-                        <tspan x="-3.55271368e-15" y="15">Hotfix</tspan>
-                    </text>
+                    <g id="Hotfix">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Hotfix</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Group" transform="translate(2.000000, 11.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(2.000000, 9.500000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(23.292500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text>
-                        <tspan x="-3.55271368e-15" y="15">Master</tspan>
-                    </text>
+                    <g id="Group">
+                        <text id="Master">
+                            <tspan x="-1.19949929e-24" y="15">Master</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <g id="Branch" transform="translate(0.000000, 141.000000)" fill-rule="nonzero">
+            <g id="Branch" transform="translate(0.000000, 139.500000)" fill-rule="nonzero">
                 <polygon id="Path" stroke="#404040" stroke-width="4" fill="#F7B500" stroke-linejoin="round" points="0 0 100.2 0 100.2 50 0 50"></polygon>
                 <g id="Master" transform="translate(27.435218, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
-                    <text id="Bugfix">
-                        <tspan x="-3.70043566e-15" y="15">Bugfix</tspan>
-                    </text>
+                    <g id="Bugfix">
+                        <text>
+                            <tspan x="-1.47721981e-16" y="15">Bugfix</tspan>
+                        </text>
+                    </g>
                 </g>
             </g>
-            <line x1="291" y1="427" x2="289" y2="34" id="Path" stroke="#404040" stroke-width="4"></line>
-            <g id="Group" transform="translate(236.000000, 158.000000)">
-                <g id="Oval" transform="translate(39.000000, 52.500000)" fill="#4DA6FF" fill-rule="nonzero" stroke="#404040" stroke-width="4">
+            <line x1="291" y1="425.5" x2="289" y2="32.5" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group" transform="translate(236.342285, 160.500000)" fill-rule="nonzero">
+                <g id="Oval" transform="translate(38.657715, 52.500000)" fill="#4DA6FF" stroke="#404040" stroke-width="4">
                     <circle cx="15.8" cy="15.8" r="15.8"></circle>
                 </g>
-                <text id="SLACK-COMMAND" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold" fill="#FFFFFF">
-                    <tspan x="21.1123047" y="21">SLACK</tspan>
-                    <tspan x="0.342285156" y="47">COMMAND</tspan>
-                </text>
+                <g id="SLACK-COMMAND" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                    <text id="SLACK">
+                        <tspan x="20.7700195" y="21">SLACK</tspan>
+                    </text>
+                    <text id="COMMAND">
+                        <tspan x="-2.66453526e-15" y="47">COMMAND</tspan>
+                    </text>
+                </g>
             </g>
         </g>
     </g>
