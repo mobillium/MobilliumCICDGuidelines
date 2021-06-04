@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="845px" height="456px" viewBox="0 0 845 456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>deploy-for-testing</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="deploy-for-testing" transform="translate(2.000000, 3.500000)">
+            <line x1="770" y1="229.5" x2="98" y2="229.5" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group-6" transform="translate(401.500000, 0.000000)" fill-rule="nonzero">
+                <g id="Group-2">
+                    <ellipse id="Oval" stroke="#C23084" stroke-width="7" fill-opacity="0" fill="#D8D8D8" cx="219" cy="224.5" rx="219" ry="224.5"></ellipse>
+                    <text id="Deploy-for-Testing" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <tspan x="122.749512" y="387.5">Deploy for Testing</tspan>
+                    </text>
+                    <text id="Workflow" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <tspan x="169.19873" y="413.5">Workflow</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(13.007324, 163.500000)">
+                    <g id="Oval" transform="translate(63.492676, 50.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
+                        <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                    </g>
+                    <g id="CONFIGURE-WITH-GIVEN" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="18" font-weight="bold">
+                        <text id="CONFIGURE-WITH">
+                            <tspan x="0" y="18">CONFIGURE WITH</tspan>
+                        </text>
+                        <text id="GIVEN-CONFIG">
+                            <tspan x="13.987793" y="40">GIVEN CONFIG</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(197.393066, 182.500000)">
+                    <g id="Oval" transform="translate(18.106934, 31.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
+                        <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                    </g>
+                    <g id="UNIT-TEST" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <text id="BUILD">
+                            <tspan x="-7.10542736e-15" y="21">BUILD</tspan>
+                        </text>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(320.770019, 182.500000)">
+                    <g id="Oval" transform="translate(29.729980, 31.500000)" fill="#C23084" stroke="#404040" stroke-width="4">
+                        <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                    </g>
+                    <g id="UNIT-TEST" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                        <text id="DEPLOY">
+                            <tspan x="-3.55271368e-15" y="21">DEPLOY</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <line x1="194.5" y1="522.7" x2="194.5" y2="325.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(194.500000, 424.200000) rotate(90.000000) translate(-194.500000, -424.200000) "></line>
+            <line x1="192.5" y1="132.7" x2="192.5" y2="-64.3" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 34.200000) rotate(90.000000) translate(-192.500000, -34.200000) "></line>
+            <line x1="192.5" y1="198.7" x2="192.5" y2="1.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 100.200000) rotate(90.000000) translate(-192.500000, -100.200000) "></line>
+            <line x1="192.5" y1="264.7" x2="192.5" y2="67.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 166.200000) rotate(90.000000) translate(-192.500000, -166.200000) "></line>
+            <line x1="192.5" y1="392.7" x2="192.5" y2="195.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 294.200000) rotate(90.000000) translate(-192.500000, -294.200000) "></line>
+            <line x1="192.5" y1="457.7" x2="192.5" y2="260.7" id="Path" stroke="#404040" stroke-width="4" transform="translate(192.500000, 359.200000) rotate(90.000000) translate(-192.500000, -359.200000) "></line>
+            <g id="Branch" transform="translate(0.000000, 204.200000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4CD3D6" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(21.152500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Release">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Release</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Branch" transform="translate(0.000000, 269.200000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B18BE8" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(19.367500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Develop">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Develop</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Branch" transform="translate(0.000000, 334.200000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#0091FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(33.580000, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Epic">
+                        <text>
+                            <tspan x="0" y="15">Epic</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Branch" transform="translate(0.000000, 399.200000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#4ED1A1" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(21.115000, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Feature">
+                        <text>
+                            <tspan x="1.19949929e-24" y="15">Feature</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Branch" transform="translate(2.000000, 74.500000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#FC8363" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(26.557500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Hotfix">
+                        <text>
+                            <tspan x="-1.19949929e-24" y="15">Hotfix</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Group" transform="translate(2.000000, 9.500000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#B3E3FF" stroke-linejoin="round" points="0 0 96.2 0 96.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(23.292500, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Group">
+                        <text id="Master">
+                            <tspan x="-1.19949929e-24" y="15">Master</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="Branch" transform="translate(0.000000, 139.500000)" fill-rule="nonzero">
+                <polygon id="Path" stroke="#404040" stroke-width="4" fill="#F7B500" stroke-linejoin="round" points="0 0 100.2 0 100.2 50 0 50"></polygon>
+                <g id="Master" transform="translate(27.435218, 15.700000)" fill="#404040" font-family="Helvetica" font-size="15" font-weight="normal">
+                    <g id="Bugfix">
+                        <text>
+                            <tspan x="-1.47721981e-16" y="15">Bugfix</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <line x1="291" y1="425.5" x2="289" y2="32.5" id="Path" stroke="#404040" stroke-width="4"></line>
+            <g id="Group" transform="translate(236.342285, 160.500000)" fill-rule="nonzero">
+                <g id="Oval" transform="translate(38.657715, 52.500000)" fill="#4DA6FF" stroke="#404040" stroke-width="4">
+                    <circle cx="15.8" cy="15.8" r="15.8"></circle>
+                </g>
+                <g id="SLACK-COMMAND" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="22" font-weight="bold">
+                    <text id="SLACK">
+                        <tspan x="20.7700195" y="21">SLACK</tspan>
+                    </text>
+                    <text id="COMMAND">
+                        <tspan x="-2.66453526e-15" y="47">COMMAND</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
