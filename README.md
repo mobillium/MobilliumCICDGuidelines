@@ -12,7 +12,7 @@
 <a name="testing"></a>
 ## Testing Workflow
 
-Testing workflow triggers in two ways. First one is when developer opens a pull request to develop branch from feature or epic branch, second one is when developer opens a pull request to master branch from hotfix branch. In this workflow we are running Unit & UI tests. Before this workflow, firstly we are doing code quality check on SonarQube.  If tests fail or SonarQube check fails pull requests can't be merged.
+Testing workflow triggers in three ways. First one is when developer opens a pull request to develop branch from feature or epic branch, second one is when developer opens a pull request to master branch from hotfix branch. Third one is when developer opens a pull request to release branch from bugfix branch. In this workflow we are running Unit & UI tests. Before this workflow, firstly we are doing code quality check on SonarQube. If tests fail or SonarQube check fails pull requests can't be merged.
 
 ![](Images/testing.svg)
 
